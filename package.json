@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/oz001/mytypescript/issues"
   },
-  "homepage": "https://github.com/oz001/mytypescript#readme"
+  "homepage": "https://github.com/oz001/mytypescript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
